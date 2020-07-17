@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  test.cpp
+test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl getScreen(struct tagPOINT &)" (?getScreen@@YAXAEAUtagPOINT@@@Z)，该符号在函数 main 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl setMouseMove(int,int)" (?setMouseMove@@YAXHH@Z)，该符号在函数 main 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl MouseClick(int)" (?MouseClick@@YAXH@Z)，该符号在函数 main 中被引用
+C:\Users\AOC\Desktop\test\x64\Debug\test.exe : fatal error LNK1120: 3 个无法解析的外部命令

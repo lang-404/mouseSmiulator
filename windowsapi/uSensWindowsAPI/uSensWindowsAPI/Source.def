@@ -1,0 +1,7 @@
+LIBRARY "UsensWindowsAPI"
+
+EXPORTS
+
+getScreen       @1
+setMouseMove    @2
+MouseClick      @3

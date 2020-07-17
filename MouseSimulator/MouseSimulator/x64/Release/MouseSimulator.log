@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  MouseSimulator.cpp
+    正在创建库 C:\Users\AOC\Desktop\20200717\MouseSimulator\x64\Release\MouseSimulator.lib 和对象 C:\Users\AOC\Desktop\20200717\MouseSimulator\x64\Release\MouseSimulator.exp
+  正在生成代码
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MouseSimulator.vcxproj -> C:\Users\AOC\Desktop\20200717\MouseSimulator\x64\Release\MouseSimulator.dll
+  MouseSimulator.vcxproj -> C:\Users\AOC\Desktop\20200717\MouseSimulator\x64\Release\MouseSimulator.pdb (Full PDB)
